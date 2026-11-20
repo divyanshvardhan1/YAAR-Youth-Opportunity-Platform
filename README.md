@@ -3,6 +3,7 @@
 # Y.A.A.R.
 ### Youth Activity, Assistance & Redirection
 **Turning Potential into Purpose.**
+🌐 **Live Demo:** [Visit Y.A.A.R. Website](https://divyanshvardhan1.pythonanywhere.com/)
 
 A web-based academic prototype connecting young people with volunteering, community projects and skill-development opportunities through content-based recommendations.
 
